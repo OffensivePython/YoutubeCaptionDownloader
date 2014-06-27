@@ -2,7 +2,7 @@
 #=========================================================#
 # [+] Title: Youtube Video's Caption Downloader           #
 # [+] Script: ytcaption.py                                #
-# [+] Blog: http://www.pythonforpentesting.com            #
+# [+] Website: http://www.pythonforpentesting.com         #
 # [+] Twitter: @OffensivePython                           #
 #=========================================================#
 import urllib2
@@ -109,7 +109,7 @@ e.g: %prog -u http://www.youtube.com/watch?v=VIDEO_ID
 if __name__ == "__main__":
     print("#=========================================================#")
     print("# [+] Title: Youtube Video's Caption Downloader           #")
-    print("# [+] URL: http://www.pythonforpentesting.com             #")
+    print("# [+] Website: http://www.pythonforpentesting.com         #")
     print("# [+] Twitter: @OffensivePython                           #")
     print("#=========================================================#")
     main()
